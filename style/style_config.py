@@ -19,7 +19,7 @@ class StyleConfig:
         'family': 'monospace',
         'title_size': 24,
         'label_size': 16,
-        'text_size': 9,
+        'text_size': 10,
         'legend_title_size': 14,
         'legend_size': 12,
         'quadrant_size': 14
