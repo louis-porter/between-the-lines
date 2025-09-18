@@ -1,0 +1,685 @@
+Team,xG,xGA
+Brighton,1.4,0.5
+Brighton,2.1,1.4
+Brighton,1.7,2.1
+Brighton,1.6,0.3
+Brighton,1,1.4
+Brighton,1.1,4.2
+Brighton,1.8,1.3
+Brighton,1.1,2
+Brighton,1.3,1.3
+Brighton,1,1.6
+Brighton,2.3,2.1
+Brighton,0.9,1.6
+Brighton,1.7,1
+Brighton,1.4,1.1
+Brighton,1.5,1.3
+Brighton,1,2.2
+Brighton,0.9,1.2
+Brighton,1.3,1.1
+Brighton,1.1,1.8
+Brighton,1.5,0.9
+Brighton,1,0.3
+Brighton,1.9,1.5
+Brighton,0.7,0.8
+Brighton,0.9,3.3
+Brighton,1.4,0.5
+Brighton,3.9,0.1
+Brighton,2.4,1.5
+Brighton,1.5,0.9
+Brighton,2,1.7
+Brighton,0.9,1.2
+Brighton,1,0.6
+Brighton,3.8,1.5
+Brighton,1.4,2.1
+Brighton,1.3,1.3
+Brighton,0.7,1.7
+Brighton,1.6,0.9
+Brighton,2.2,2.2
+Brighton,2.2,2
+Man utd,2.4,0.4
+Man utd,1.4,2.1
+Man utd,1.4,1.8
+Man utd,2.6,1.1
+Man utd,1.6,1
+Man utd,1,4.4
+Man utd,0.6,0.5
+Man utd,1.3,0.9
+Man utd,2.3,2.8
+Man utd,2,1.1
+Man utd,0.8,0.6
+Man utd,0.8,1.6
+Man utd,1.1,0.6
+Man utd,0.2,2.1
+Man utd,1.6,0.8
+Man utd,2.1,0.9
+Man utd,2.2,1.6
+Man utd,0.4,0.9
+Man utd,0.8,1.9
+Man utd,1,2.7
+Man utd,3.4,1.4
+Man utd,1.5,1.9
+Man utd,0.3,0.7
+Man utd,1.1,2.6
+Man utd,1.5,2.2
+Man utd,0.4,1.6
+Man utd,0.7,1.4
+Man utd,1.5,1.6
+Man utd,0.9,1
+Man utd,1.6,0.5
+Man utd,0.9,0.5
+Man utd,0.7,2.2
+Man utd,1.3,0.2
+Man utd,2.3,0.5
+Man utd,1.5,2.8
+Man utd,2.1,1.7
+Man utd,0.3,0.8
+Man utd,2.9,0.4
+Villa,2,2.3
+Villa,1.2,0.9
+Villa,1.4,0.4
+Villa,2.1,0.9
+Villa,1.7,0.5
+Villa,0.8,1.2
+Villa,0.5,0.6
+Villa,1.6,1.8
+Villa,1.8,0.3
+Villa,1.8,2.4
+Villa,1.2,2
+Villa,3,1.3
+Villa,1.2,1.6
+Villa,2.4,0.9
+Villa,2.3,0.3
+Villa,0.4,1.7
+Villa,1.6,1
+Villa,0.3,2.7
+Villa,1.8,1.1
+Villa,1.4,0.4
+Villa,1.2,1.1
+Villa,1,1.3
+Villa,0.9,1.3
+Villa,0.4,1.6
+Villa,2.4,0.4
+Villa,0.6,2.5
+Villa,2.3,2.3
+Villa,0.4,4.3
+Villa,1.3,0.8
+Villa,1.2,0.9
+Villa,3,1.5
+Villa,3,0.3
+Villa,2.2,1
+Villa,1.8,1.3
+Villa,1,0.9
+Villa,1,0.8
+Villa,1.4,0.5
+Villa,0.4,2.9
+West Ham,2.3,2
+West Ham,1.4,1.3
+West Ham,0.7,3
+West Ham,0.8,1.5
+West Ham,0.9,2.2
+West Ham,1,0.4
+West Ham,3.6,0.6
+West Ham,0.8,1.9
+West Ham,2.8,2.3
+West Ham,0.1,2.2
+West Ham,0.8,1.1
+West Ham,0.9,1.6
+West Ham,1.5,3.5
+West Ham,3,1.7
+West Ham,1,1.4
+West Ham,2.1,1.9
+West Ham,1.2,0.9
+West Ham,1.7,1.4
+West Ham,0.4,3.1
+West Ham,1.4,1.9
+West Ham,1,1.7
+West Ham,0.3,1.3
+West Ham,1.3,0.9
+West Ham,1.2,1.6
+West Ham,0.8,1.6
+West Ham,1.1,1.2
+West Ham,1.3,0.4
+West Ham,0.7,1.4
+West Ham,0.8,1
+West Ham,1.3,1.2
+West Ham,0.7,2.1
+West Ham,1.4,1.8
+West Ham,0.9,0.6
+West Ham,1.3,1.3
+West Ham,0.8,0.8
+West Ham,1.7,2.1
+West Ham,1.1,1.9
+West Ham,1.1,0.7
+Fulham,0.4,2.4
+Fulham,1.8,0.6
+Fulham,0.9,0.4
+Fulham,1.5,0.8
+Fulham,2.2,1.5
+Fulham,1.3,0.8
+Fulham,2.6,1.6
+Fulham,1.8,1.6
+Fulham,1.2,0.8
+Fulham,1.3,0.6
+Fulham,1.8,1.5
+Fulham,1,1.3
+Fulham,1.5,0.8
+Fulham,1.1,1.4
+Fulham,0.2,1.8
+Fulham,1.2,2.1
+Fulham,0.9,0.3
+Fulham,1.8,1.1
+Fulham,1.1,2
+Fulham,2.2,1.5
+Fulham,1.7,1
+Fulham,2,0.6
+Fulham,0.7,0.3
+Fulham,1.6,0.8
+Fulham,2.1,0.4
+Fulham,0.2,1.3
+Fulham,1.7,1.3
+Fulham,0.9,1.5
+Fulham,1,0.9
+Fulham,1,2.2
+Fulham,0.7,1.5
+Fulham,1,1.4
+Fulham,0.3,0.9
+Fulham,2.4,0.6
+Fulham,0.9,1
+Fulham,0.8,1.1
+Fulham,1,2.5
+Fulham,1.3,3
+Leicester,1,1.2
+Leicester,0.6,1.8
+Leicester,0.4,1.4
+Leicester,1.2,2.5
+Leicester,0.7,1.1
+Leicester,0.3,4.4
+Leicester,0.8,2.1
+Leicester,3.1,2.1
+Leicester,0.8,1.7
+Leicester,1.5,1
+Leicester,0.6,0.8
+Leicester,1.1,2.7
+Leicester,1.1,2.4
+Leicester,1.7,3
+Leicester,1.3,1.5
+Leicester,0.2,3.8
+Leicester,0.8,1.1
+Leicester,0.3,2
+Leicester,1.3,1.3
+Leicester,0.4,1.4
+Leicester,1.7,1.8
+Leicester,0.6,2
+Leicester,1.6,1
+Leicester,0.3,2.5
+Leicester,0.2,1.4
+Leicester,0.5,1.5
+Leicester,0.4,1.3
+Leicester,0.1,1.7
+Leicester,1,0.9
+Leicester,0.1,2.2
+Leicester,0.5,3.2
+Leicester,1.5,3.8
+Leicester,0.3,2.5
+Leicester,1.1,2
+Leicester,1.4,0.5
+Leicester,1.1,1.3
+Leicester,0.8,1.4
+Leicester,0.3,1.6
+Palace,1.2,1.6
+Palace,1.3,1.4
+Palace,0.5,2.4
+Palace,2.5,1.2
+Palace,1,1.6
+Palace,0.9,0.9
+Palace,0.6,1.4
+Palace,1,1.7
+Palace,0.8,0.7
+Palace,2.4,1.5
+Palace,1.5,1.8
+Palace,1.3,3
+Palace,1.7,0
+Palace,1.6,0.5
+Palace,1.3,1.4
+Palace,2.2,1
+Palace,1.6,2.5
+Palace,0.4,1.4
+Palace,2,0.9
+Palace,1.1,1.2
+Palace,1.8,1.7
+Palace,1.3,0.3
+Palace,1.1,1.3
+Palace,2.6,1.1
+Palace,1.6,0.9
+Palace,1.3,0.2
+Palace,4.3,0.4
+Palace,3.2,1.5
+Palace,0.7,0.7
+Palace,0.6,1
+Palace,1.8,3.7
+Palace,2,1.5
+Palace,0.4,0.7
+Palace,1.7,1.2
+Palace,2.3,0.7
+Palace,3.3,0.7
+Palace,1.7,1.4
+Palace,1.8,2.1
+Brentford,1.6,1.2
+Brentford,0.5,2.5
+Brentford,2.8,1.5
+Brentford,1,2.1
+Brentford,0.8,3.5
+Brentford,0.4,1
+Brentford,4.2,1
+Brentford,0.9,1.3
+Brentford,4,1.3
+Brentford,0.6,1.3
+Brentford,1.5,2.6
+Brentford,1.1,1.2
+Brentford,2.4,1.1
+Brentford,0.9,2.4
+Brentford,1.2,1.5
+Brentford,1.6,2.2
+Brentford,0.7,0.9
+Brentford,1.1,1.3
+Brentford,0.3,1.9
+Brentford,4.4,0.3
+Brentford,2.5,2.2
+Brentford,0.7,3.4
+Brentford,1.3,1.1
+Brentford,2.1,0.8
+Brentford,1.6,0.8
+Brentford,1.5,0.5
+Brentford,1.4,1.5
+Brentford,0.8,1.3
+Brentford,0.8,1.6
+Brentford,1.5,1.3
+Brentford,1.1,1.2
+Brentford,0.2,1
+Brentford,2.1,1.4
+Brentford,1.3,0.9
+Brentford,2.8,1.5
+Brentford,1.4,0.9
+Brentford,2.5,1
+Brentford,1.4,1
+Liverpool,2.6,0.5
+Liverpool,2.5,0.5
+Liverpool,1.8,1.4
+Liverpool,0.9,0.4
+Liverpool,2,1.1
+Liverpool,2.5,0.6
+Liverpool,1.4,0.6
+Liverpool,1.9,1
+Liverpool,0.8,0.9
+Liverpool,1.6,1
+Liverpool,2,1.2
+Liverpool,3.1,1.3
+Liverpool,3.4,0.8
+Liverpool,1.9,2.1
+Liverpool,2.1,1.2
+Liverpool,5.6,1.3
+Liverpool,2,0.3
+Liverpool,3.1,0.4
+Liverpool,2.7,1
+Liverpool,2,0.3
+Liverpool,3.4,0.7
+Liverpool,2,0.5
+Liverpool,2.5,1.6
+Liverpool,0.6,1
+Liverpool,1.7,1.5
+Liverpool,2.5,0.6
+Liverpool,0.7,0.6
+Liverpool,1.7,0.2
+Liverpool,3.9,0.4
+Liverpool,1.5,0.9
+Liverpool,1.5,0.7
+Liverpool,1.8,1.4
+Liverpool,2.5,0.3
+Liverpool,2.2,0.5
+Liverpool,1,3.1
+Liverpool,2.4,2.6
+Liverpool,2.2,2.2
+Liverpool,2.1,1.8
+Arsenal,1.2,0.5
+Arsenal,0.9,1.2
+Arsenal,2.1,1.7
+Arsenal,0.7,0.7
+Arsenal,0.7,2.1
+Arsenal,4.4,0.3
+Arsenal,2.8,0.6
+Arsenal,0.7,1.8
+Arsenal,0.9,0.8
+Arsenal,1.1,0.5
+Arsenal,1.5,1.5
+Arsenal,1.2,0.3
+Arsenal,3.5,1.5
+Arsenal,2.1,0.2
+Arsenal,1.8,0.2
+Arsenal,1.2,0.1
+Arsenal,2.5,1.6
+Arsenal,1.8,0.2
+Arsenal,1.9,0.3
+Arsenal,0.9,1.5
+Arsenal,1.4,0.8
+Arsenal,1.3,1
+Arsenal,1,0.7
+Arsenal,1,0.8
+Arsenal,1.4,0.2
+Arsenal,1.2,1.1
+Arsenal,1,0.4
+Arsenal,1.6,1.5
+Arsenal,0.7,0.4
+Arsenal,2.2,1
+Arsenal,1.8,1.1
+Arsenal,1,0.2
+Arsenal,2.4,0.2
+Arsenal,1.2,1.7
+Arsenal,1.4,0.9
+Arsenal,2.6,2.4
+Arsenal,0.6,1.5
+Arsenal,2.3,0.6
+Man City,0.8,1
+Man City,3.3,0.3
+Man City,3,0.7
+Man City,2.1,1
+Man City,2.1,0.7
+Man City,0.9,1.6
+Man City,1.6,2.6
+Man City,1.6,0.8
+Man City,2.9,0.2
+Man City,1.6,2
+Man City,2.1,2.3
+Man City,2.1,2.5
+Man City,0.8,3.4
+Man City,2.4,1
+Man City,1.4,1.3
+Man City,0.9,2.1
+Man City,1,1.6
+Man City,2.1,0.7
+Man City,1.3,1.3
+Man City,1.9,1.4
+Man City,2.2,2.5
+Man City,3,0.5
+Man City,2.2,1.8
+Man City,0.8,1
+Man City,1.9,0.5
+Man City,0.6,0.7
+Man City,2.1,1.3
+Man City,0.9,0.7
+Man City,1.7,2
+Man City,2.2,0.1
+Man City,0.5,0.9
+Man City,3.7,1.8
+Man City,2,0.9
+Man City,1.3,1.8
+Man City,0.7,0.4
+Man City,1.7,0.1
+Man City,1.5,1.1
+Man City,3,1.3
+Bournemouth,1.2,1.3
+Bournemouth,2.2,1.6
+Bournemouth,2.4,1.8
+Bournemouth,1.7,0.8
+Bournemouth,1.1,2
+Bournemouth,1.3,0.6
+Bournemouth,2.1,0.8
+Bournemouth,1.8,0.7
+Bournemouth,0.3,1.8
+Bournemouth,2,1.6
+Bournemouth,2.6,1.5
+Bournemouth,1.6,0.9
+Bournemouth,3.3,0.5
+Bournemouth,3.5,0.9
+Bournemouth,3.2,1.3
+Bournemouth,1.9,2.1
+Bournemouth,1.6,2.2
+Bournemouth,1.4,0.4
+Bournemouth,2,1.1
+Bournemouth,1.8,0.7
+Bournemouth,1.2,2.5
+Bournemouth,2,0.8
+Bournemouth,1.7,1
+Bournemouth,1.6,2.5
+Bournemouth,1.2,0.8
+Bournemouth,0.9,2
+Bournemouth,1.5,2.4
+Bournemouth,2.2,1.5
+Bournemouth,1.6,0.8
+Bournemouth,1.8,1.2
+Bournemouth,2.1,0.7
+Bournemouth,1.4,1
+Bournemouth,0.7,0.4
+Bournemouth,0.5,2.3
+Bournemouth,0.9,1.4
+Bournemouth,0.8,1
+Bournemouth,1.1,1.5
+Bournemouth,1.6,0.3
+Chelsea,1,0.8
+Chelsea,1.6,1.9
+Chelsea,2.4,0.5
+Chelsea,0.8,1.7
+Chelsea,2.2,0.9
+Chelsea,4.2,1.1
+Chelsea,2.3,0.9
+Chelsea,1,1.9
+Chelsea,1.6,1.8
+Chelsea,1.1,2
+Chelsea,1.5,1.5
+Chelsea,2.7,1.1
+Chelsea,1.6,1.2
+Chelsea,5.2,1.6
+Chelsea,2.8,2.8
+Chelsea,2.2,1.6
+Chelsea,1.2,1
+Chelsea,1.1,1.8
+Chelsea,2,1.6
+Chelsea,1.2,1.1
+Chelsea,2.5,1.2
+Chelsea,3.1,0.8
+Chelsea,1.8,2.2
+Chelsea,1.6,1.2
+Chelsea,0.5,1.4
+Chelsea,2.3,2.3
+Chelsea,2.4,0.7
+Chelsea,1.7,0.1
+Chelsea,0.4,0.7
+Chelsea,1,0.9
+Chelsea,1.2,1.1
+Chelsea,2.2,1.1
+Chelsea,0.9,0.3
+Chelsea,0.8,0.4
+Chelsea,3.1,1
+Chelsea,0.7,1.6
+Chelsea,0.8,0.3
+Chelsea,1.1,1.2
+Forest,1.3,1.2
+Forest,2.2,0.1
+Forest,1,0.7
+Forest,0.4,0.9
+Forest,1.4,1
+Forest,0.8,1.3
+Forest,0.9,2.3
+Forest,1.7,1
+Forest,1.7,0.8
+Forest,2.2,0.1
+Forest,0.6,1.6
+Forest,0.3,1.2
+Forest,1.6,0.6
+Forest,1,2.4
+Forest,0.8,1.6
+Forest,1.7,0.4
+Forest,0.9,0.7
+Forest,1.1,0.9
+Forest,1.5,0.9
+Forest,2.1,1.5
+Forest,0.3,2
+Forest,1.8,0.9
+Forest,1,1.7
+Forest,3.3,0.9
+Forest,0.4,2.1
+Forest,1.7,2.9
+Forest,0.4,1
+Forest,0.7,0.9
+Forest,1.5,0.4
+Forest,0.5,1.6
+Forest,1.5,3
+Forest,0.5,1.4
+Forest,0.5,2.1
+Forest,0.9,1.3
+Forest,0.7,2.3
+Forest,1.3,1.1
+Forest,1.9,1.1
+Forest,1.2,1.1
+Southampton,1.8,0.3
+Southampton,0.1,2.2
+Southampton,1.5,2.8
+Southampton,1.1,2.6
+Southampton,2.4,1.6
+Southampton,0.6,1.3
+Southampton,0.6,2.8
+Southampton,2.1,3.1
+Southampton,0.2,2.9
+Southampton,0.7,1.6
+Southampton,0.6,1.3
+Southampton,1.3,3.1
+Southampton,1,1.7
+Southampton,1.6,5.2
+Southampton,0.3,2.3
+Southampton,0.8,2.3
+Southampton,0.3,0.9
+Southampton,1.4,1.7
+Southampton,0.9,2
+Southampton,0.3,4.4
+Southampton,1.4,3.4
+Southampton,0.9,1.8
+Southampton,0.8,2.9
+Southampton,0.9,1.8
+Southampton,0.8,1.2
+Southampton,0.1,3.9
+Southampton,0.7,2.4
+Southampton,0.4,3.9
+Southampton,1.3,0.4
+Southampton,0.7,0.7
+Southampton,1,2.1
+Southampton,0.3,3
+Southampton,0.6,0.9
+Southampton,0.6,2.4
+Southampton,0.5,1.4
+Southampton,0.1,1.7
+Southampton,1.2,2.7
+Southampton,0.6,2.3
+Ipswich,0.5,2.6
+Ipswich,0.3,3.3
+Ipswich,0.4,0.9
+Ipswich,0.3,1.6
+Ipswich,1.6,2.4
+Ipswich,1.2,0.8
+Ipswich,0.6,3.6
+Ipswich,1.3,1.7
+Ipswich,1.3,4
+Ipswich,1,1.5
+Ipswich,1.6,1.5
+Ipswich,1.6,0.8
+Ipswich,0.6,1.6
+Ipswich,0.5,1.6
+Ipswich,1.3,3.2
+Ipswich,1.1,1.3
+Ipswich,0.7,2.3
+Ipswich,0.2,1.8
+Ipswich,1.6,2
+Ipswich,1.5,2.2
+Ipswich,0.3,1
+Ipswich,0.5,3
+Ipswich,0.5,2
+Ipswich,1.8,0.9
+Ipswich,0.4,2.4
+Ipswich,1.1,1.7
+Ipswich,1.4,0.7
+Ipswich,1.5,3.2
+Ipswich,0.4,1.5
+Ipswich,1.2,1.8
+Ipswich,0.8,2.6
+Ipswich,1.1,2.2
+Ipswich,0.2,2.4
+Ipswich,0.1,2.4
+Ipswich,0.8,0.6
+Ipswich,0.9,1.4
+Ipswich,1.4,0.8
+Ipswich,0.7,1.1
+Newcastle,0.3,1.8
+Newcastle,1.6,2.2
+Newcastle,1.8,1.2
+Newcastle,1.5,1.2
+Newcastle,1.5,2.2
+Newcastle,1.6,0.9
+Newcastle,2.1,0.7
+Newcastle,2,1.1
+Newcastle,1.8,1.6
+Newcastle,0.5,1.1
+Newcastle,1.6,0.6
+Newcastle,1.6,0.9
+Newcastle,0,1.7
+Newcastle,2.1,1.9
+Newcastle,1.5,1.2
+Newcastle,3.8,0.2
+Newcastle,2.3,0.7
+Newcastle,2.7,0.3
+Newcastle,1.9,0.8
+Newcastle,2.5,0.9
+Newcastle,2.1,1.6
+Newcastle,0.8,2
+Newcastle,2.9,0.8
+Newcastle,0.8,1.6
+Newcastle,0.5,1.9
+Newcastle,2.9,1.7
+Newcastle,0.2,1.7
+Newcastle,1.4,0.7
+Newcastle,1.3,1.5
+Newcastle,3.2,0.5
+Newcastle,2.2,0.7
+Newcastle,1.5,2
+Newcastle,1,2.2
+Newcastle,2.4,0.1
+Newcastle,1.7,0.7
+Newcastle,1.6,0.7
+Newcastle,1.5,0.6
+Newcastle,1.2,1.2
+Everton,0.5,1.4
+Everton,1,2.4
+Everton,1.8,2.4
+Everton,0.9,2.1
+Everton,1.1,0.7
+Everton,0.9,0.9
+Everton,0.7,2.1
+Everton,1.7,1.3
+Everton,0.8,1.2
+Everton,1.6,0.7
+Everton,1.1,0.8
+Everton,1.2,1.1
+Everton,0.6,1.1
+Everton,1,0.8
+Everton,0.1,1.2
+Everton,1,1.2
+Everton,0.7,2.1
+Everton,0.9,1.5
+Everton,0.7,1.8
+Everton,1.1,1.2
+Everton,1.8,1.1
+Everton,0.8,0.7
+Everton,2.5,0.3
+Everton,1,0.6
+Everton,0.9,1.6
+Everton,1.6,0.4
+Everton,1.5,1.4
+Everton,1.2,0.8
+Everton,1,0.8
+Everton,0.9,1.5
+Everton,1.1,1.8
+Everton,1.4,0.5
+Everton,0.9,2
+Everton,0.4,0.8
+Everton,0.6,0.8
+Everton,1.1,0.8
+Everton,2.7,1.2
+Everton,1.2,1.2
